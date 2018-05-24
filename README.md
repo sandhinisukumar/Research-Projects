@@ -21,6 +21,8 @@ Text summarization: From the documents, we have to provide a meaningful summary.
 ## 5. SYSTEM DESIGN
 Proposes an automatic Summarizer for Malayalam using keyword extraction method. The first step is creating the corpus of the data extracted from online Malayalam news articles.
 
+![alt text](https://github.com/sandhinisukumar/Research-Projects/blob/master/desgin.png)
+
 
  ## 6. FUTURE SCOPE
 The future work is generating the summary of the document by using neural networks.
